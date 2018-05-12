@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3
     wikipedia: http://en.wikipedia.org/wiki/Abraham_Lincoln
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39204#The-Lincoln-Year-BookAxioms-and-Aphorisms-from-the-Great-Emancipator
 gutenberg_issued: '2012-03-19'
 gutenberg_type: Text
 identifiers:
